@@ -1,3 +1,5 @@
+<img src="https://www.codenameone.com/img/blog/new-features-3.jpg" />
+
 # Braintree CodenameOne
 
 Integrates the Braintree SDK's for iOS/Android. There is also a somewhat broken fallback implementation based on the  JavaScript API. This SDK assumes you integrated braintree in the server and have a server side API to facilitate the payment processing.
